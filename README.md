@@ -14,8 +14,8 @@
 
 ## 스크린샷
 <img src="https://github.com/BoostCamp/PitchPerfect_Jacob/blob/master/screenshot/1.png" width="280">
-<img src="https://github.com/BoostCamp/PitchPerfect_hpark11/blob/master/PitchPerfect/img/2.png" width="280">
-<img src="https://github.com/BoostCamp/PitchPerfect_hpark11/blob/master/PitchPerfect/img/3.png" width="280">
+<img src="https://github.com/BoostCamp/PitchPerfect_Jacob/blob/master/screenshot/2.png" width="280">
+<img src="https://github.com/BoostCamp/PitchPerfect_Jacob/blob/master/screenshot/3.png" width="280">
 
 ## Author
 Dongyoon Kang (Jacob)
