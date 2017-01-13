@@ -121,8 +121,9 @@ extension PlaySoundsViewController: AVAudioPlayerDelegate {
         }
         
 
-        // timer for update seekSlider
+        // set slider max value
         seekSlider.maximumValue = Float(audioDuration)
+        // timer for update seekSlider
         self.sliderTimer = Timer.scheduledTimer(timeInterval: 0.01, target: self, selector: #selector(PlaySoundsViewController.updateSeekSlider), userInfo: nil, repeats: true)
         audioPlayerNode.play()
     }
